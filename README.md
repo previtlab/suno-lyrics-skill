@@ -27,7 +27,7 @@ suno-lyrics-skill/
 4. **+** 버튼 → **+ Create skill** → **Upload a skill**을 누릅니다.
 5. zip 파일을 올립니다.
 
-Pro·Max·Team·Enterprise 요금제에서 쓸 수 있습니다. 출처: [Use Skills in Claude (Claude 도움말)](https://support.claude.com/en/articles/12512180-use-skills-in-claude)
+Free·Pro·Max·Team·Enterprise 요금제에서 쓸 수 있습니다. Team·Enterprise는 조직 설정(**Organization settings → Plugins & skills**)에서 스킬이 켜져 있어야 합니다(조직 소유자가 관리). 출처: [Use Skills in Claude (Claude 도움말)](https://support.claude.com/en/articles/12512180-use-skills-in-claude)
 
 ### Claude Code
 `suno-lyrics-skill` 폴더를 아래 두 곳 중 한 곳에 복사합니다.
@@ -61,7 +61,7 @@ mkdir -p .claude/skills && cp -r suno-lyrics-skill .claude/skills/
 **suno-lyrics-skill** is a Claude Agent Skill that helps you write singable Korean lyrics, together with the Style, Exclude and Title fields Suno needs. It is genre-adaptive rather than a template for one artist. It covers ballad, rap, trot, K-pop/dance, R&B, rock, jazz, musical and electronic.
 
 **Install**
-- **Claude.ai:** download `suno-lyrics-skill.zip` from Releases. The zip must have the `suno-lyrics-skill` folder at its top level. Make sure code execution is enabled (personal plans: Settings → Capabilities → "Code execution and file creation"). Go to **Customize → Skills** (https://claude.ai/customize/skills), click **+** → **+ Create skill** → **Upload a skill**, then upload the zip. Available on Pro, Max, Team and Enterprise plans. Source: [Use Skills in Claude](https://support.claude.com/en/articles/12512180-use-skills-in-claude)
+- **Claude.ai:** download `suno-lyrics-skill.zip` from Releases. The zip must have the `suno-lyrics-skill` folder at its top level. Make sure code execution is enabled (personal plans: Settings → Capabilities → "Code execution and file creation"). Go to **Customize → Skills** (https://claude.ai/customize/skills), click **+** → **+ Create skill** → **Upload a skill**, then upload the zip. Available on Free, Pro, Max, Team and Enterprise plans. On Team and Enterprise, skills must be enabled in **Organization settings → Plugins & skills** (managed by the organization owner). Source: [Use Skills in Claude](https://support.claude.com/en/articles/12512180-use-skills-in-claude)
 - **Claude Code:** copy the `suno-lyrics-skill` folder into `~/.claude/skills/` (personal) or `.claude/skills/` (project).
 
 **Example:** "Write a mid-tempo Korean ballad about remembering someone at an old bus stop three years after a breakup, with Suno Style, Exclude and Title."
