@@ -21,9 +21,13 @@ suno-lyrics-skill/
 ## 설치
 
 ### Claude.ai (웹·앱)
-1. [Releases](../../releases)에서 `suno-lyrics-skill.zip`을 받습니다. 저장소를 받았다면 `suno-lyrics-skill` 폴더를 zip으로 묶어도 됩니다.
-2. **설정(Settings) → 기능(Features)** 에서 코드 실행(code execution)을 켭니다.
-3. 같은 화면의 Skills에서 zip을 업로드합니다. 이 기능은 Pro·Max·Team·Enterprise 요금제에서 쓸 수 있습니다.
+1. [Releases](../../releases)에서 `suno-lyrics-skill.zip`을 받습니다. zip을 열면 맨 위에 `suno-lyrics-skill` 폴더가 있어야 합니다. 저장소를 받았다면 그 폴더를 직접 zip으로 묶어도 됩니다.
+2. 코드 실행(code execution)이 켜져 있어야 합니다. 개인 요금제는 **Settings → Capabilities**의 "Code execution and file creation"에서 켭니다.
+3. **Customize → Skills**(https://claude.ai/customize/skills)로 갑니다.
+4. **+** 버튼 → **+ Create skill** → **Upload a skill**을 누릅니다.
+5. zip 파일을 올립니다.
+
+Pro·Max·Team·Enterprise 요금제에서 쓸 수 있습니다. 출처: [Use Skills in Claude (Claude 도움말)](https://support.claude.com/en/articles/12512180-use-skills-in-claude)
 
 ### Claude Code
 `suno-lyrics-skill` 폴더를 아래 두 곳 중 한 곳에 복사합니다.
@@ -57,7 +61,7 @@ mkdir -p .claude/skills && cp -r suno-lyrics-skill .claude/skills/
 **suno-lyrics-skill** is a Claude Agent Skill that helps you write singable Korean lyrics, together with the Style, Exclude and Title fields Suno needs. It is genre-adaptive rather than a template for one artist. It covers ballad, rap, trot, K-pop/dance, R&B, rock, jazz, musical and electronic.
 
 **Install**
-- **Claude.ai:** download `suno-lyrics-skill.zip` from Releases. Enable code execution in Settings → Features, then upload the zip under Skills (Pro, Max, Team and Enterprise plans).
+- **Claude.ai:** download `suno-lyrics-skill.zip` from Releases. The zip must have the `suno-lyrics-skill` folder at its top level. Make sure code execution is enabled (personal plans: Settings → Capabilities → "Code execution and file creation"). Go to **Customize → Skills** (https://claude.ai/customize/skills), click **+** → **+ Create skill** → **Upload a skill**, then upload the zip. Available on Pro, Max, Team and Enterprise plans. Source: [Use Skills in Claude](https://support.claude.com/en/articles/12512180-use-skills-in-claude)
 - **Claude Code:** copy the `suno-lyrics-skill` folder into `~/.claude/skills/` (personal) or `.claude/skills/` (project).
 
 **Example:** "Write a mid-tempo Korean ballad about remembering someone at an old bus stop three years after a breakup, with Suno Style, Exclude and Title."
