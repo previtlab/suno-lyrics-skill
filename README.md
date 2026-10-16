@@ -3,7 +3,7 @@
 Suno로 노래를 만들 때 **부를 수 있는 한국어 가사**와 **Style·Exclude·Title 입력**을 함께 설계하는 Claude 에이전트 스킬입니다.
 특정 아티스트나 장르에 맞춘 템플릿이 아닙니다. 사연형 발라드부터 랩·트로트·댄스·R&B·록·재즈·뮤지컬·전자음악까지, 장르에 맞게 규칙을 켜고 끄도록 만든 범용 작사 지침입니다.
 
-- 이 스킬을 바탕으로 쓴 해설 시리즈: https://moket.kr/series/suno-prompt-master
+- 이 스킬을 바탕으로 쓴 해설 시리즈: https://moket.kr/series/suno-lyrics-complete
 
 ## 들어 있는 것
 
@@ -52,7 +52,7 @@ mkdir -p .claude/skills && cp -r suno-lyrics-skill .claude/skills/
 
 [CC BY 4.0](LICENSE). 사용·수정·재배포 모두 자유이며, 상업적 이용도 됩니다. 쓰실 때 저작자를 이렇게 표기해 주세요.
 
-> 저작자: **PrevitLAB (MOHOHA)** — https://moket.kr/series/suno-prompt-master
+> 저작자: **PrevitLAB (MOHOHA)** — https://moket.kr/series/suno-lyrics-complete
 
 ---
 
@@ -66,6 +66,6 @@ mkdir -p .claude/skills && cp -r suno-lyrics-skill .claude/skills/
 
 **Example:** "Write a mid-tempo Korean ballad about remembering someone at an old bus stop three years after a breakup, with Suno Style, Exclude and Title."
 
-**Companion series (Korean):** https://moket.kr/series/suno-prompt-master
+**Companion series (Korean):** https://moket.kr/series/suno-lyrics-complete
 
 **License:** [CC BY 4.0](LICENSE). Attribution: **PrevitLAB (MOHOHA)**.
