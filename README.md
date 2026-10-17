@@ -25,7 +25,7 @@
 
 **Claude.ai (웹·앱)**
 1. [Releases](../../releases)에서 `suno-lyrics-skill.zip`을 받습니다.
-2. **Customize → Skills**(https://claude.ai/customize/skills)에서 **+** → **+ Create skill** → **Upload a skill**을 누릅니다.
+2. **Customize → Skills**([claude.ai/customize/skills](https://claude.ai/customize/skills))에서 **+** → **+ Create skill** → **Upload a skill**을 누릅니다.
 3. zip 파일을 올립니다.
 
 **Claude Code**
@@ -40,7 +40,7 @@ cp -r suno-lyrics-skill ~/.claude/skills/
 ### Claude.ai (웹·앱)
 1. [Releases](../../releases)에서 `suno-lyrics-skill.zip`을 받습니다. zip을 열면 맨 위에 `suno-lyrics-skill` 폴더가 있어야 합니다. 저장소를 받았다면 그 폴더를 직접 zip으로 묶어도 됩니다.
 2. 코드 실행(code execution)이 켜져 있어야 합니다. 개인 요금제는 **Settings → Capabilities**의 "Code execution and file creation"에서 켭니다.
-3. **Customize → Skills**(https://claude.ai/customize/skills)로 갑니다.
+3. **Customize → Skills**([claude.ai/customize/skills](https://claude.ai/customize/skills))로 갑니다.
 4. **+** 버튼 → **+ Create skill** → **Upload a skill**을 누릅니다.
 5. zip 파일을 올립니다.
 
@@ -103,24 +103,24 @@ MOHOHA 채널에 올린 곡들입니다. 곡마다 가사가 어디서 시작했
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://youtu.be/O0557LkaykY"><img src="https://img.youtube.com/vi/O0557LkaykY/hqdefault.jpg" alt="취향은 왜 숨겨야 하나요" width="100%"></a><br>
+      <a href="https://youtu.be/O0557LkaykY"><img src="https://img.youtube.com/vi/O0557LkaykY/maxresdefault.jpg" alt="취향은 왜 숨겨야 하나요" width="100%"></a><br>
       <b><a href="https://youtu.be/O0557LkaykY">취향은 왜 숨겨야 하나요</a></b> · 인디 록<br>
       빠른 곡인데 줄을 짧게 끊어 숨 쉴 자리를 남겼습니다.
     </td>
     <td width="50%" valign="top">
-      <a href="https://youtu.be/a66VUcNSmpM"><img src="https://img.youtube.com/vi/a66VUcNSmpM/hqdefault.jpg" alt="Swipe tap" width="100%"></a><br>
+      <a href="https://youtu.be/a66VUcNSmpM"><img src="https://img.youtube.com/vi/a66VUcNSmpM/maxresdefault.jpg" alt="Swipe tap" width="100%"></a><br>
       <b><a href="https://youtu.be/a66VUcNSmpM">Swipe tap</a></b> · K-POP / R&B<br>
       그루브로 시작: 영어 두 단어 반복이 박자를 끌고, 뜻은 뒤에서 풀립니다.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://youtu.be/xUNtJR5DD5w"><img src="https://img.youtube.com/vi/xUNtJR5DD5w/hqdefault.jpg" alt="냥냥 어퍼컷" width="100%"></a><br>
+      <a href="https://youtu.be/xUNtJR5DD5w"><img src="https://img.youtube.com/vi/xUNtJR5DD5w/maxresdefault.jpg" alt="냥냥 어퍼컷" width="100%"></a><br>
       <b><a href="https://youtu.be/xUNtJR5DD5w">냥냥 어퍼컷</a></b> · K-POP<br>
       캐릭터로 시작: 고양이 화자의 말투 '어디서 반말이냐구' 하나로 곡이 이어집니다.
     </td>
     <td width="50%" valign="top">
-      <a href="https://youtu.be/2AFnZ79EVZM"><img src="https://img.youtube.com/vi/2AFnZ79EVZM/hqdefault.jpg" alt="종로 밤거리" width="100%"></a><br>
+      <a href="https://youtu.be/2AFnZ79EVZM"><img src="https://img.youtube.com/vi/2AFnZ79EVZM/maxresdefault.jpg" alt="종로 밤거리" width="100%"></a><br>
       <b><a href="https://youtu.be/2AFnZ79EVZM">종로 밤거리</a></b> · 인디 록<br>
       질감으로 시작: 좁은 방과 몸의 감각 '기둥이 침대를 반쯤 먹어서'에서 출발합니다.
     </td>
