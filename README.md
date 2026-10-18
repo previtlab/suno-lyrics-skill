@@ -110,7 +110,7 @@ MOHOHA 채널에 올린 곡들입니다. 곡마다 가사가 어디서 시작했
     <td width="50%" valign="top">
       <a href="https://youtu.be/a66VUcNSmpM"><img src="https://img.youtube.com/vi/a66VUcNSmpM/maxresdefault.jpg" alt="Swipe tap" width="100%"></a><br>
       <b><a href="https://youtu.be/a66VUcNSmpM">Swipe tap</a></b> · K-POP / R&B<br>
-      관찰에서 시작: 쇼츠를 넘기던 손가락 움직임을 보다가 떠올렸고, 그 동작이 영어 두 단어 반복이 됐습니다.
+      훅에서 시작: 쇼츠를 넘기던 손가락 움직임을 보다가 'Swipe tap' 두 단어가 먼저 떠올랐고, 그게 곡을 여는 반복이 됐습니다.
     </td>
   </tr>
   <tr>
@@ -173,7 +173,7 @@ suno-lyrics-skill/
 
 **Example:** "Write a mid-tempo Korean ballad about remembering someone at an old bus stop three years after a breakup, with Suno Style, Exclude and Title." The skill returns the full lyrics (chorus hook: 한 대만 더 보내고 가자, "let's let one more bus go"), a Style prompt such as `Korean medium-tempo ballad, 80 BPM, 4/4, warm upright piano and soft brushed drums, …`, an Exclude suggestion and the Title 한 대만 더, plus what to listen for in the generated song.
 
-**Songs made with this skill:** [취향은 왜 숨겨야 하나요](https://youtu.be/O0557LkaykY) (indie rock, from fandom) · [Swipe tap](https://youtu.be/a66VUcNSmpM) (K-pop/R&B, observation-first) · [냥냥 어퍼컷](https://youtu.be/xUNtJR5DD5w) (K-pop, character-first) · [종로 밤거리](https://youtu.be/2AFnZ79EVZM) (indie rock, story-first) — [MOHOHA on YouTube](https://www.youtube.com/@mohohamusic)
+**Songs made with this skill:** [취향은 왜 숨겨야 하나요](https://youtu.be/O0557LkaykY) (indie rock, from fandom) · [Swipe tap](https://youtu.be/a66VUcNSmpM) (K-pop/R&B, hook-first: the two words came first) · [냥냥 어퍼컷](https://youtu.be/xUNtJR5DD5w) (K-pop, character-first) · [종로 밤거리](https://youtu.be/2AFnZ79EVZM) (indie rock, story-first) — [MOHOHA on YouTube](https://www.youtube.com/@mohohamusic)
 
 **Learn (Korean):** [lecture series](https://moket.kr/series/suno-lyrics-complete) · [episode 0 video](https://youtu.be/WdfmKrI3t0A)
 
