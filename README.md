@@ -151,7 +151,7 @@ suno-lyrics-skill/
 
 [CC BY 4.0](LICENSE). 사용·수정·재배포 모두 자유이며, 상업적 이용도 됩니다. 쓰실 때 저작자를 이렇게 표기해 주세요.
 
-> 저작자: **PrevitLAB (MOHOHA)** — https://moket.kr/series/suno-lyrics-complete
+> 저작자: **PrevitLAB (MOKET)** — https://moket.kr/series/suno-lyrics-complete
 
 ---
 
