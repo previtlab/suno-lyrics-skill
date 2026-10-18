@@ -132,7 +132,7 @@ MOHOHA 채널에 올린 곡들입니다. 곡마다 가사가 어디서 시작했
 이 스킬의 규칙을 한 편씩 풀어 쓴 강의 시리즈입니다.
 
 - 📖 강의 글: [SUNO 작사의 모든 것](https://moket.kr/series/suno-lyrics-complete)
-- ▶️ 0강 영상: [내 노래는 왜 이상할까? 수노로 돈 버는 작사법, 스킬까지 무료로 드려요](https://youtu.be/tbH2_OwaKoA) (MOKET 모켓 채널)
+- ▶️ 0강 영상: [내 노래는 왜 이상할까? 수노로 돈 버는 작사법, 스킬까지 무료로 드려요](https://youtu.be/WdfmKrI3t0A) (모켓 Moket 채널)
 
 ## 들어 있는 것
 
@@ -175,6 +175,6 @@ suno-lyrics-skill/
 
 **Songs made with this skill:** [취향은 왜 숨겨야 하나요](https://youtu.be/O0557LkaykY) (indie rock) · [Swipe tap](https://youtu.be/a66VUcNSmpM) (K-pop/R&B, groove-first) · [냥냥 어퍼컷](https://youtu.be/xUNtJR5DD5w) (K-pop, character-first) · [종로 밤거리](https://youtu.be/2AFnZ79EVZM) (indie rock, texture-first) — [MOHOHA on YouTube](https://www.youtube.com/@mohohamusic)
 
-**Learn (Korean):** [lecture series](https://moket.kr/series/suno-lyrics-complete) · [episode 0 video](https://youtu.be/tbH2_OwaKoA)
+**Learn (Korean):** [lecture series](https://moket.kr/series/suno-lyrics-complete) · [episode 0 video](https://youtu.be/WdfmKrI3t0A)
 
 **License:** [CC BY 4.0](LICENSE). Attribution: **PrevitLAB (MOHOHA)**.
