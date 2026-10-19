@@ -5,7 +5,7 @@
 필요한 항목만 채운다.
 
 ```text
-Creation mode:
+Creation mode: Story / Hook / Character / Groove / Texture / Hybrid
 Theme / concept:
 Story facts:
 Speaker(s):

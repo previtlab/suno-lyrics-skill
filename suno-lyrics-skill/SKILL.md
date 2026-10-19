@@ -171,25 +171,26 @@ Rules:
 
 초안 전에 가장 적합한 시작점을 정한다.
 
-## Story-first
+## [말]이 주인공
+
+### Story-first (사연)
 사연, 사건, 관계가 중심.
 
-## Hook-first
+### Hook-first (훅)
 제목/후렴/한 문장이 먼저 떠오른 곡.
 
-## Groove-first
-리듬, danceability, cadence가 우선.
-
-## Character-first
+### Character-first (캐릭터)
 화자의 persona, 말투, 태도가 우선.
 
-## Texture-first
+## [소리]가 주인공
+
+### Groove-first (리듬)
+리듬, danceability, cadence가 우선.
+
+### Texture-first (분위기)
 ambient, electronic, experimental처럼 sound/atmosphere가 우선.
 
-## Reference-first
-사용자가 참고곡의 원리를 먼저 제시.
-
-## Hybrid
+## Hybrid (혼합)
 두 개 이상이 실제로 동등하게 중요.
 
 ### Important
@@ -198,6 +199,11 @@ Groove-first / Texture-first에서는
 
 서사가 없는 곡에 억지 사연을 만들지 않는다.
 
+### 참고곡이 있을 때
+참고곡은 시작점이 아니라 출처다. 먼저 들어 보고 그 곡의 시작점을 추측해 다섯 중 하나 또는 Hybrid로 정한다.
+
+참고곡 활용 원칙은 **2.5 Reference = principles, not copying**를 따른다.
+
 ---
 
 # 5. Song Brief
@@ -205,7 +211,7 @@ Groove-first / Texture-first에서는
 필요한 항목만 채운다.
 
 ```text
-Creation mode:
+Creation mode: Story / Hook / Character / Groove / Texture / Hybrid
 Theme / concept:
 Story facts:
 Speaker(s):
@@ -862,11 +868,8 @@ Creator Profile은 새 곡을 과거 곡 복제품으로 만들면 안 된다.
 
 ## Pass A — Function
 Creation Mode에 맞는 핵심 기능 확인:
-- story
-- hook
-- groove
-- character
-- texture
+- [말]: story / hook / character
+- [소리]: groove / texture
 
 ## Pass B — Meaning
 - truth
@@ -953,7 +956,7 @@ Creation Mode에 맞는 핵심 기능 확인:
 - LOCK을 건드렸나?
 
 ## Creation Mode
-- 이 곡이 정말 Story-first인가?
+- 고른 시작점이 이 곡의 진짜 중심인가? (말/소리)
 - groove/texture 곡에 억지 서사를 넣었나?
 
 ## Genre

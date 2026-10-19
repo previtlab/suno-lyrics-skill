@@ -7,7 +7,7 @@
 - LOCK을 건드렸나?
 
 ## Creation Mode
-- 이 곡이 정말 Story-first인가?
+- 고른 시작점이 이 곡의 진짜 중심인가? (말/소리)
 - groove/texture 곡에 억지 서사를 넣었나?
 
 ## Genre
