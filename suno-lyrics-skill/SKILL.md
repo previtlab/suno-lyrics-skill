@@ -3,7 +3,7 @@ name: suno-lyrics-skill
 description: "Use when the user wants to write, revise or diagnose Korean song lyrics and the matching Suno Style, Exclude and Title fields for any genre, from ballad and trot to rap, K-pop, rock and electronic."
 ---
 
-# Korean Songwriting for Suno — Skill v3.0
+# Korean Songwriting for Suno — Skill v3.1
 ## Universal / Genre-Adaptive / Prosody-First / Loop-Engineered
 
 > 공개용 범용 스킬.
