@@ -133,6 +133,7 @@ MOHOHA 채널에 올린 곡들입니다. 곡마다 가사가 어디서 시작했
 
 - 📖 강의 글: [SUNO 작사의 모든 것](https://moket.kr/series/suno-lyrics-complete)
 - ▶️ 0강 영상: [내 노래는 왜 이상할까? 수노로 돈 버는 작사법, 스킬까지 무료로 드려요](https://youtu.be/WdfmKrI3t0A) (모켓 Moket 채널)
+- ▶️ 1강 영상: [Suno 가사, 습관처럼 사연부터 쓰면 어색해져요](https://youtu.be/w2twWvVdYRY) — 시작점 고르기: 말이 주인공 / 소리가 주인공 (모켓 Moket 채널)
 
 ## 들어 있는 것
 
@@ -175,6 +176,6 @@ suno-lyrics-skill/
 
 **Songs made with this skill:** [취향은 왜 숨겨야 하나요](https://youtu.be/O0557LkaykY) (indie rock, from fandom) · [Swipe tap](https://youtu.be/a66VUcNSmpM) (K-pop/R&B, hook-first: the two words came first) · [냥냥 어퍼컷](https://youtu.be/xUNtJR5DD5w) (K-pop, character-first) · [종로 밤거리](https://youtu.be/2AFnZ79EVZM) (indie rock, story-first) — [MOHOHA on YouTube](https://www.youtube.com/@mohohamusic)
 
-**Learn (Korean):** [lecture series](https://moket.kr/series/suno-lyrics-complete) · [episode 0 video](https://youtu.be/WdfmKrI3t0A)
+**Learn (Korean):** [lecture series](https://moket.kr/series/suno-lyrics-complete) · [episode 0 video](https://youtu.be/WdfmKrI3t0A) · [episode 1 video](https://youtu.be/w2twWvVdYRY)
 
 **License:** [CC BY 4.0](LICENSE). Attribution: **PrevitLAB (MOHOHA)**.
