@@ -1,0 +1,21 @@
+{
+  "name": "previtlab-suno",
+  "owner": {
+    "name": "previtlab"
+  },
+  "metadata": {
+    "description": "Korean lyric-writing skill for Suno (가사·Style·Exclude·Title)",
+    "version": "3.1.0"
+  },
+  "plugins": [
+    {
+      "name": "suno-lyrics-skill",
+      "description": "Write, revise or diagnose Korean song lyrics with the matching Suno Style, Exclude and Title fields for any genre.",
+      "source": "./",
+      "strict": false,
+      "license": "CC-BY-4.0",
+      "keywords": ["suno", "korean", "lyrics", "songwriting", "agent-skills"],
+      "skills": ["./suno-lyrics-skill"]
+    }
+  ]
+}

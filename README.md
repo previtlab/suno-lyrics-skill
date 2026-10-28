@@ -34,6 +34,8 @@
 cp -r suno-lyrics-skill ~/.claude/skills/
 ```
 
+플러그인으로 받으려면 Claude Code에서 `/plugin marketplace add previtlab/suno-lyrics-skill` → `/plugin install suno-lyrics-skill@previtlab-suno`. 다른 에이전트 도구에서는 `npx skills add previtlab/suno-lyrics-skill`.
+
 <details>
 <summary>설치 자세히 보기 (코드 실행 설정·요금제·프로젝트 전용 설치)</summary>
 
@@ -163,6 +165,8 @@ suno-lyrics-skill/
 **Install**
 - **Claude.ai:** download `suno-lyrics-skill.zip` from [Releases](../../releases), go to **Customize → Skills** (https://claude.ai/customize/skills), click **+** → **+ Create skill** → **Upload a skill**, and upload the zip.
 - **Claude Code:** `cp -r suno-lyrics-skill ~/.claude/skills/`
+  - as a plugin: `/plugin marketplace add previtlab/suno-lyrics-skill`, then `/plugin install suno-lyrics-skill@previtlab-suno`
+  - other agents: `npx skills add previtlab/suno-lyrics-skill`
 
 <details>
 <summary>Install details</summary>
