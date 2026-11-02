@@ -15,7 +15,7 @@
       "strict": false,
       "license": "CC-BY-4.0",
       "keywords": ["suno", "korean", "lyrics", "songwriting", "agent-skills"],
-      "skills": ["./suno-lyrics-skill"]
+      "skills": ["./skills/suno-lyrics-skill"]
     }
   ]
 }

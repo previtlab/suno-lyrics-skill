@@ -31,7 +31,7 @@
 **Claude Code**
 
 ```bash
-cp -r suno-lyrics-skill ~/.claude/skills/
+cp -r skills/suno-lyrics-skill ~/.claude/skills/
 ```
 
 플러그인으로 받으려면 Claude Code에서 `/plugin marketplace add previtlab/suno-lyrics-skill` → `/plugin install suno-lyrics-skill@previtlab-suno`. 다른 에이전트 도구에서는 `npx skills add previtlab/suno-lyrics-skill`.
@@ -40,7 +40,7 @@ cp -r suno-lyrics-skill ~/.claude/skills/
 <summary>설치 자세히 보기 (코드 실행 설정·요금제·프로젝트 전용 설치)</summary>
 
 ### Claude.ai (웹·앱)
-1. [Releases](../../releases)에서 `suno-lyrics-skill.zip`을 받습니다. zip을 열면 맨 위에 `suno-lyrics-skill` 폴더가 있어야 합니다. 저장소를 받았다면 그 폴더를 직접 zip으로 묶어도 됩니다.
+1. [Releases](../../releases)에서 `suno-lyrics-skill.zip`을 받습니다. zip을 열면 맨 위에 `suno-lyrics-skill` 폴더가 있어야 합니다. 저장소를 받았다면 `skills/suno-lyrics-skill` 폴더를 직접 zip으로 묶어도 됩니다.
 2. 코드 실행(code execution)이 켜져 있어야 합니다. 개인 요금제는 **Settings → Capabilities**의 "Code execution and file creation"에서 켭니다.
 3. **Customize → Skills**([claude.ai/customize/skills](https://claude.ai/customize/skills))로 갑니다.
 4. **+** 버튼 → **+ Create skill** → **Upload a skill**을 누릅니다.
@@ -49,14 +49,14 @@ cp -r suno-lyrics-skill ~/.claude/skills/
 Free·Pro·Max·Team·Enterprise 요금제에서 쓸 수 있습니다. Team·Enterprise는 조직 설정(**Organization settings → Plugins & skills**)에서 스킬이 켜져 있어야 합니다(조직 소유자가 관리). 출처: [Use Skills in Claude (Claude 도움말)](https://support.claude.com/en/articles/12512180-use-skills-in-claude)
 
 ### Claude Code
-`suno-lyrics-skill` 폴더를 아래 두 곳 중 한 곳에 복사합니다.
+저장소의 `skills/suno-lyrics-skill` 폴더를 아래 두 곳 중 한 곳에 복사합니다.
 
 ```bash
 # 내 모든 프로젝트에서 쓰기
-cp -r suno-lyrics-skill ~/.claude/skills/
+cp -r skills/suno-lyrics-skill ~/.claude/skills/
 
 # 이 프로젝트에서만 쓰기
-mkdir -p .claude/skills && cp -r suno-lyrics-skill .claude/skills/
+mkdir -p .claude/skills && cp -r skills/suno-lyrics-skill .claude/skills/
 ```
 
 설치한 뒤에는 작사를 부탁하면 Claude가 알아서 스킬을 불러옵니다. 이름을 직접 불러도 됩니다: `/suno-lyrics-skill`
@@ -140,7 +140,7 @@ MOHOHA 채널에 올린 곡들입니다. 곡마다 가사가 어디서 시작했
 ## 들어 있는 것
 
 ```
-suno-lyrics-skill/
+skills/suno-lyrics-skill/
 ├── SKILL.md                     # 스킬 본문 (§0~§36)
 └── templates/
     ├── song-brief.md            # 쓰기 전: Song Brief (§5)
@@ -164,7 +164,7 @@ suno-lyrics-skill/
 
 **Install**
 - **Claude.ai:** download `suno-lyrics-skill.zip` from [Releases](../../releases), go to **Customize → Skills** (https://claude.ai/customize/skills), click **+** → **+ Create skill** → **Upload a skill**, and upload the zip.
-- **Claude Code:** `cp -r suno-lyrics-skill ~/.claude/skills/`
+- **Claude Code:** `cp -r skills/suno-lyrics-skill ~/.claude/skills/`
   - as a plugin: `/plugin marketplace add previtlab/suno-lyrics-skill`, then `/plugin install suno-lyrics-skill@previtlab-suno`
   - other agents: `npx skills add previtlab/suno-lyrics-skill`
 
@@ -172,7 +172,7 @@ suno-lyrics-skill/
 <summary>Install details</summary>
 
 - **Claude.ai:** The zip must have the `suno-lyrics-skill` folder at its top level. Make sure code execution is enabled (personal plans: Settings → Capabilities → "Code execution and file creation"). Available on Free, Pro, Max, Team and Enterprise plans. On Team and Enterprise, skills must be enabled in **Organization settings → Plugins & skills** (managed by the organization owner). Source: [Use Skills in Claude](https://support.claude.com/en/articles/12512180-use-skills-in-claude)
-- **Claude Code:** copy the `suno-lyrics-skill` folder into `~/.claude/skills/` (personal) or `.claude/skills/` (project).
+- **Claude Code:** copy the `skills/suno-lyrics-skill` folder into `~/.claude/skills/` (personal) or `.claude/skills/` (project).
 
 </details>
 

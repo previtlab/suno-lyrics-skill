@@ -1,27 +1,3 @@
-<!-- 원본: SKILL.md §34 발췌(내용 수정 없음). Excerpt from SKILL.md §34, unchanged. -->
+# 옮겨졌습니다 / Moved
 
-# 34. Final Output Template
-
-```text
-Lyrics
-[section tags]
-가사
-
-Style
-영어 production brief
-
-Exclude
-필요한 금지 요소만
-
-Title
-제목
-```
-
-필요 시 추가:
-```text
-Target duration:
-Vocal note:
-Arrangement spotlight:
-LOCK:
-What to listen for in the next generation:
-```
+이 파일의 새 위치 / New location: [skills/suno-lyrics-skill/templates/final-output.md](https://github.com/previtlab/suno-lyrics-skill/blob/main/skills/suno-lyrics-skill/templates/final-output.md)
